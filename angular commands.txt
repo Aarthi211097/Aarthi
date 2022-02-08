@@ -1,0 +1,9 @@
+"mkdir foldername" to create folder
+"cd foldername" to go inside folder
+"cd.." for getting outside from path
+"ng serve" to run app
+"ng new projectname" to create angular project
+"ng g c componentname" to call component and create 4 different files
+"ng new projectname --style=scss"
+"ng g c search-bar" to create searchbar component
+"ng --version"  vesrion
